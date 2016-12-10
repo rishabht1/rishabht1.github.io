@@ -4,10 +4,10 @@ title:  "The Tarnished Freedom"
 date:   2015-04-16 13:21:31 +0530
 categories: Poems
 ---
-![](file:///home/oldskypilot/Documents/rtblog/rishabht1.github.io/media/sita.jpg)
+![](https://github.com/rishabht1/rishabht1.github.io/blob/master/media/sita.jpg)
 
 A duckling floats in a pond nearby; Sita’s eyes follow its course
-A movement so serene, so suave yet stirring remorse
+A movement so serene, so suave yet stirring remorsekjdccdc
 For behind the trail, the pond reflects a veraciously ghastly sight
 Not past, not present but a moonless future night
 
