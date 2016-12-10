@@ -4,7 +4,7 @@ title:  "The Tarnished Freedom"
 date:   2015-04-16 13:21:31 +0530
 categories: Poems
 ---
-![](https://github.com/rishabht1/rishabht1.github.io/blob/master/media/sita.jpg)
+<img src="https://github.com/rishabht1/rishabht1.github.io/blob/master/media/sita.jpg" style="height:200px; width: 200px;"/>
 
 A duckling floats in a pond nearby; Sita’s eyes follow its course
 A movement so serene, so suave yet stirring remorsekjdccdc
