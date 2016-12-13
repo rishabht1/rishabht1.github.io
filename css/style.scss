@@ -409,7 +409,6 @@ pre {
   text-indent: 2px;
   font-family: "PT Sans";
   font-size: 12px;
-  color: #424242;
 }
 .page-tagline {
   font-size: 24px;
@@ -570,10 +569,10 @@ pre {
 }
 .post-title {
   font-size: 62px;
-
+  color: #424242;
   text-align: center;
   font-family: "PT Sans";
-  font-weight: 900;
+  font-weight: 600;
   @include media-query($on-laptop) {
     font-size: 36px;
   }
