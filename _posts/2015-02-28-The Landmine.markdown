@@ -2,7 +2,7 @@
 layout: post
 title:  "The Landmine"
 date:   2015-02-28 05:37:28 +0530
-categories: Poems
+categories: ["poems"]
 ---
 Hurled up in a valley, in a land foreign to me  
 Is a war. Aged three. Orphaned.  

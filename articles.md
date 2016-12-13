@@ -1,6 +1,7 @@
 ---
-layout: page
-title : Articles
+layout: archive
+title: Articles
 permalink: /articles/
+category: "articles"
+tagline: 
 ---
-

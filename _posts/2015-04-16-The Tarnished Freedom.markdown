@@ -2,7 +2,7 @@
 layout: post
 title:  "The Tarnished Freedom"
 date:   2015-04-16 13:21:31 +0530
-categories: Poems
+categories: ["poems"]
 ---
 <p align = "center"><img src="https://raw.githubusercontent.com/rishabht1/rishabht1.github.io/master/media/sita.jpg" style="height:250px; width: 200px; margin:auto"/></p>
 

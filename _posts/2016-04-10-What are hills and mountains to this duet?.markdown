@@ -2,7 +2,7 @@
 layout: post
 title:  "What are hills and mountains to this duet?"
 date:   2016-04-10 21:24:54 +0530
-categories: Poems
+categories: ["poems"]
 ---
 That gleam in the eyes ascends me to blankness  
 Or a transition into a different me, feeble  

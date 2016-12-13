@@ -2,7 +2,7 @@
 layout: post
 title:  "This gloom is my new delight"
 date:   2016-04-18 14:50:31 +0530
-categories: Poems
+categories: ["poems"]
 ---
 I float in a sea of illusions, half in half out  
 A limitless pool of water, within the confines of this mind  
