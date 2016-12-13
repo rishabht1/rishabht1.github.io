@@ -411,10 +411,10 @@ pre {
   font-size: 12px;
 }
 .page-tagline {
-  font-size: 24px;
-  font-family: "PT Sans";
-  color: rgb(170, 170, 170);
+  font-size: 20px;
   text-align: center;
+  font-family: "PT Sans";
+  color: rgb(170, 170, 170); 
 }
 .page-link {
   color: rgb(170, 170, 170);
@@ -568,7 +568,7 @@ pre {
   margin-bottom: $spacing-unit;
 }
 .post-title {
-  font-size: 62px;
+  font-size: 48px;
   color: #424242;
   text-align: center;
   font-family: "PT Sans";
