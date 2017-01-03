@@ -29,6 +29,6 @@ The way I see it, I will be dividing my writing task into -
 5. Auroville - The politics and economics of spirituality. 
 
 I don’t know how much justice I’d be able to do with all of them, yet somewhere inside I feel excited at the prospect of writing about these things. I think the primary reason is because while writing and thinking I will get to relive them once again.
-I will end this particular note by quoting one the many great lines from the Jon Krakauer’s book *Into the Wild* - 
+I will end this particular note by quoting one the many great lines from Jon Krakauer’s book *Into the Wild* - 
 
 <p align = "center"><i>“The core of man’s spirit comes from new experiences.”</i></p>
