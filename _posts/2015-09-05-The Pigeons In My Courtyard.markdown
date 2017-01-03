@@ -5,7 +5,7 @@ date:   2015-09-05 11:25:28 +0530
 categories: ["poems"]
 ---
 I see you daily, in my court,  
-You come and gait in circles.  
+You come and gait slowly in circles.  
 Round the grub, I put for you.  
 Someday they are crumbs,  
 Someday millets, or pulses,  
