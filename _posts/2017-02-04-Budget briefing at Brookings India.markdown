@@ -38,4 +38,4 @@ Vikram Mehta expressed his surprise on the budget for not being a populist in th
 
 The discussion later shifted to the mention of UBI (Universal Basic Income) in India in the ESI. Dr. Ravi called it a way to rationalise subsidies and said it cannot go hand in hand with the existing state of subsidies in India. 
 
-Towards the end, questions were taken from the attendees wherein the UDAY scheme, FDI, secondary and tertiary healthcare and admin reforms were discoursed upon.
+Towards the end, questions were taken from the attendees wherein the UDAY scheme, GST, FDI, secondary and tertiary healthcare and admin reforms were discoursed upon.
