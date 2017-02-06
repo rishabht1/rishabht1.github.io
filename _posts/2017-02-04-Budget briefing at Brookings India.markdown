@@ -10,6 +10,7 @@ The day following the day of the budget, Brookings India scholars were part of a
 
 <p align = "center"><img src="https://raw.githubusercontent.com/rishabht1/rishabht1.github.io/master/media/budget.jpg"></p>  
 
+
 Dr. Harsha Vardhana went first and enunciated on the following points:  
 
 * The background - This budget cannot be seen outside the aegis of the recent demonetization of higher currency notes in India which shaved off 0.5% of the Indian economy in terms of GDP. There are elements in the budget which take forward the purpose of demonetization towards a more monitored economy. Dr. Singh also pointed out the missed opportunities where the government could have made stronger pronouncements in sync with demonetization.   
