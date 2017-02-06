@@ -8,6 +8,8 @@ One of the most sought after days in the Indian parliament is the day when the U
 
 The day following the day of the budget, Brookings India scholars were part of a briefing session on the budget to dissect and discuss what the various section of the budget meant for their fields of expertise. **Dr. Harsha Vardhana Singh**, Executive Director - Brookings India, remarked on the trade and infrastructure side, **Dr. Shamika Ravi** commented on health sector and also touched upon gender dynamics, **Dr. Rahul Tongia** observed the implications on the energy sector and the organisation’s chairman - **Vikram Singh Mehta** convened the session with his opinion on the overall efficiency and assertiveness of the budget. 
 
+<p align = "center"><img src="https://raw.githubusercontent.com/rishabht1/rishabht1.github.io/master/media/budget.jpg/"></p>
+
 Dr. Harsha Vardhana went first and enunciated on the following points:
 * The background - This budget cannot be seen outside the aegis of the recent demonetization of higher currency notes in India which shaved off 0.5% of the Indian economy in terms of GDP. There are elements in the budget which take forward the purpose of demonetization towards a more monitored economy. Dr. Singh also pointed out the missed opportunities where the government could have made stronger pronouncements in sync with demonetization.
 * He mentioned how the budget laid down segments of social importance with an eye on the growth with social equity. The Oxfam ranking of India as second worst on social equality was put to light. 
