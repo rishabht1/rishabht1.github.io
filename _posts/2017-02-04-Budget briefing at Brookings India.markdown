@@ -19,7 +19,7 @@ Dr. Harsha Vardhana went first and enunciated on the following points:
 
 Ensuing Dr. Singh, Dr. Shamika Ravi expounded on her views on the budget:
 
-* Dr. Ravi called the budget a plumbing budget focused more over repairing the existing model and make the economy more formal.
+* Dr. Ravi called the budget a plumbing budget focused more over repairing the existing model and making the economy more formal.
 * She talked about some key aspects like getting rid off MCI (Medical Council of India) and the restructuring of UGC (University Grant Commission). The UGC would be remoulded to be accreditation based instead of centralised and also it would follow an outcome based follow up of universities.  
 * On the healthcare sector, Dr. Ravi said that although significant improvements were expected through the budget, **women health was still limited to her reproductive health. She stressed on the need to look beyond female reproductive health and incorporate the required nutritional interventions.** She also highlighted how the Women and Child ministry hasn't been very creative but they are getting substantially funded. 
 * As per Dr. Ravi, the Crop Insurance Scheme looked ambitious and rudimentary at the same time. The process of governance of public sector banks was also put under the lens by her.  
