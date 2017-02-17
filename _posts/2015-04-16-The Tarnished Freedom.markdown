@@ -7,7 +7,7 @@ categories: ["poems"]
 <p align = "center"><img src="https://raw.githubusercontent.com/rishabht1/rishabht1.github.io/master/media/sita.jpg" style="height:250px; width: 200px; margin:auto"/></p>
 
 A duckling floats in a pond nearby; Sita’s eyes follow its course  
-A movement so serene, so suave yet stirring remorsekjdccdc  
+A movement so serene, so suave yet stirring remorse  
 For behind the trail, the pond reflects a veraciously ghastly sight  
 Not past, not present but a moonless future night  
 
