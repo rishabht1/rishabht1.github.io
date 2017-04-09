@@ -4,7 +4,10 @@ title:  "4 a.m. Langar"
 date:   2017-04-09 11:41:28 +0530
 categories: ["articles"]
 ---
+<figure>
 <p align = "center"><img src="https://raw.githubusercontent.com/rishabht1/rishabht1.github.io/master/media/gurudwara.jpg" style="height:250px; width: 400px; margin:auto"/></p>
+<figcaption align = "center">Inner prayer hall</figcaption>
+</figure>
 
 It has been a week that I have been going to the Moti Bagh Gurudwara in the morning at 4. At 4 because this is the time when the first Langar of the day is served. 
 
