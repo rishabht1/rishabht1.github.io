@@ -2,7 +2,7 @@
 layout: post
 title:  "Langar at 4 a.m."
 date:   2017-04-09 11:41:28 +0530
-categories: ["articles"]
+categories: ["write ups"]
 ---
 <figure>
 <p align = "center"><img src="https://raw.githubusercontent.com/rishabht1/rishabht1.github.io/master/media/gurudwara.jpg" style="height:250px; width: 400px; margin:auto"/></p>

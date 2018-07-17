@@ -2,7 +2,7 @@
 layout: post
 title:  "Budget briefing at Brookings India"
 date:   2017-02-04 14:11:28 +0530
-categories: ["articles"]
+categories: ["write ups"]
 ---
 One of the most sought after days in the Indian parliament is the day when the Union Finance Minister of the country presents the budget for that fiscal year. People are drawn to the TV screens, trying to make a real time analysis of what impacts would the different provisions and allocations have on their lives. Presenting of the budget is basically allocation of resources where an effort is put to do the allocation in the most efficient and optimized manner. In a country of the scale of India it is very evident indeed that the budget is taken differently by different people on the basis of what it offers them. Then, there is also a comprehensive commentary which is done by journalists, economists and other experts. 
 
