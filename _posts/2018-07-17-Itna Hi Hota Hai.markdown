@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "When December Descends"
-date:   2016-12-27 14:08:28 +0530
+title:  "Itna Hi Hota Hai"
+date:   2018-07-17 14:08:28 +0530
 categories: ["write up"]
 ---
 One of the most cliched phrases is that failure teaches you a lot. One characteristic quality of cliches, apart from their obviousness (not to be misinterpreted with truism) is that though they are somewhat universal (both temporally and spatially), at an experiential level they are not universal and mold into the distinction which every person carries. Most of the stories which carry a lesson have very cliched endings -- good beats evil, the sweetened fruit of patience etc. However, a similar ending/message does not make the story less ingenious. 
