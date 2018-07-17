@@ -19,7 +19,7 @@ In a recent discussion with another friend, we were conversing about what decide
 
 I will end with the story of a man who takes up a very idealistic cause. He puts in all that he could, doesn’t leave a stone unturned. However, it doesn’t end well and he fails miserably. Despondent and confused, he goes and sits besides his grandmother’s bed and says *“kuch ho nahi paya” (nothing could come out of it).* His grandmother, a woman who had given all her life fighting for justice, smiles, holds his hand and tells him *“itna hi hota hai” (that is as good as it gets).* 
 
-_Addendum -_ 
+**Addendum -** 
 
 Marcus Aurelius is said to be always accompanied by a slave he had appointed for a very specific role. The role of this slave was to whisper in his ear "You’re just a man… just a man,” everytime Aurelius received a compliment. The idea was to keep Aurelius humble and in tune with reality.
 
