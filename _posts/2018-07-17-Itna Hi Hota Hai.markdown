@@ -4,7 +4,7 @@ title:  "Itna Hi Hota Hai"
 date:   2018-07-17 14:08:28 +0530
 categories: ["write up"]
 ---
-One of the most cliched phrases is that failure teaches you a lot. One characteristic quality of cliches, apart from their obviousness (not to be misinterpreted with truism) is that though they are somewhat universal (both temporally and spatially), at an experiential level they are not universal and mold into the distinction which every person carries. Most of the stories which carry a lesson have very cliched endings -- good beats evil, the sweetened fruit of patience etc. However, a similar ending/message does not make the story less ingenious. 
+One of the most cliched phrases is that failure teaches you a lot. One characteristic quality of cliches, apart from their obviousness (not to be misinterpreted with truism) is that though they are somewhat universal (both temporally and spatially), at an experiential level they are not universal and mold into the distinctness every person carries. Most of the stories which carry a lesson have very cliched endings -- good beats evil, the sweetened fruit of patience etc. However, a similar ending/message does not make the story less ingenious. 
 
 Recently, I had one of the bigger failures I have ever been through. I am confused as to how to feel about it. My natural disposition does not allow me to instantaneously react to emotions. This is not about being able to express them or not but about getting a feel of them. What I feel right now is not grief or regret or disappointment, but a sense of disorientation with regards to the future course of action. 
 
