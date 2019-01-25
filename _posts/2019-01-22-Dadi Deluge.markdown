@@ -6,7 +6,7 @@ categories: ["write ups"]
 ---
 
 <figure>
-<p align = "center"><img src="https://raw.githubusercontent.com/rishabht1/rishabht1.github.io/master/media/dadi.jpg" style="height:400px; width: 250px; margin:auto"/></p>
+<p align = "center"><img src="https://raw.githubusercontent.com/rishabht1/rishabht1.github.io/master/media/dadi.jpg" style="height:300px; width: 250px; margin:auto"/></p>
 </figure>
 
 All that I have been writing from some time in the past has been very personal self-consolation stuff. This one, to be precise, is as personal as it gets, and for that reason writing this, is as difficult as it gets. It is about the person I loved the most and what her loss signifies. My grandmother passed away in November last year. Here, I try and delve into the tiny form of words meeting the formlessness of my grief and to tiptoe around the cavities of my own knowing. 
