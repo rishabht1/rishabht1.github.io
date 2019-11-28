@@ -5,7 +5,7 @@ date:   2019-11-28 10:28:28 +0530
 categories: ["write ups"]
 ---
 > "Your absence has gone through me  
-> Like thread through a needle.
+> Like thread through a needle.  
 > Everything I do is stitched with its color."  
 > -- W.S. Merwin
 
