@@ -35,7 +35,7 @@ To implement the points mentioned above, the capacity of isolation and observati
 On the other side the effort was directed towards managing and sustain the lockdown. This also includes the surveys being done to make better use of the time that has been borrowed. For the rural areas 5400 “corona fighters” for around 1800 villages were put to action. They included 5250 ASHA workers and other volunteers. Police, home guards, and social workers together ensured food and supplies reached homes within the containment area. Total shutdown meant people got essential goods including dairy, medicines, at their doorstep at call. At least 4-5 control rooms of several departments became operational.
 
 <figure>
-<p align = "center"><img src="https://raw.githubusercontent.com/rishabht1/rishabht1.github.io/master/media/positive.png" style="margin:auto"/></p>
+<p align = "center"><img src="https://raw.githubusercontent.com/rishabht1/rishabht1.github.io/master/media/ptvtosmp.png" style="margin:auto"/></p>
 <figcaption align = "center">Fig 3</figcaption>
 </figure>
 
@@ -44,12 +44,12 @@ On the other side the effort was directed towards managing and sustain the lockd
 <figcaption align = "center">Fig 4</figcaption>
 </figure>
 
-Looking at the present number of positive cases (Figure – positive % of rajasthan), it wouldn’t be wrong to call the Bhilwara strategy of ruthless containment a success. Where the potential cases could have been in thousands, the present active cases (Figure – active cases) are in single digits. From being the worst hit district in Rajasthan (having the highest number of cases in Rajasthan from March 20th to April 2nd) to not reporting new cases for 11 straight days, the efforts have led to impressive results.
+Looking at the present number of positive cases (Fig 3), it wouldn’t be wrong to call the Bhilwara strategy of ruthless containment a success. Where the potential cases could have been in thousands, the present active cases (Fig 4) are in single digits. From being the worst hit district in Rajasthan (having the highest number of cases in Rajasthan from March 20th to April 2nd) to not reporting new cases for 11 straight days, the efforts have led to impressive results.
 
-Bhilwara is still in the list of the red zone districts issued by Ministry of Health and Family Welfare. Though the number of cases compared to the total in Rajasthan has gone down below 2% (figure – % Bhilwara to Raj), the number of samples tested from the district comprise of more than 10% of the state (figure – Samples%). The district is presently under “mahacurfew” (intense curfew), and with new cases erupting in the past few days, it doesn’t seem that the guard will be put down soon.
+Bhilwara is still in the list of the red zone districts issued by Ministry of Health and Family Welfare. Though the number of cases compared to the total in Rajasthan has gone down below 2% (Fig 5), the number of samples tested from the district comprise of more than 10% of the state (Fig 6). The district is presently under “mahacurfew” (intense curfew), and with new cases erupting in the past few days, it doesn’t seem that the guard will be put down soon.
 
 <figure>
-<p align = "center"><img src="https://raw.githubusercontent.com/rishabht1/rishabht1.github.io/master/media/ptvtosmp.png" style="margin:auto"/></p>
+<p align = "center"><img src="https://raw.githubusercontent.com/rishabht1/rishabht1.github.io/master/media/positive.png" style="margin:auto"/></p>
 <figcaption align = "center">Fig 5</figcaption>
 </figure>
 
