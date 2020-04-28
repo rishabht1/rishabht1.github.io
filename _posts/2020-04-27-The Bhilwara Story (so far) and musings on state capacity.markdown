@@ -8,7 +8,7 @@ categories: ["write ups"]
 I have grown up in Bhilwara and lived there for the first 18 years and intermittently after that. I have been curious about the way in the state functions at the district and local levels. Sitting here in Delhi, I have been sifting through newspapers based out of the city. It has been interesting to observe how the corona virus pandemic is being viewed and how the developments around it are taking shape.
 
 <figure>
-<p align = "center"><img src="https://raw.githubusercontent.com/rishabht1/rishabht1.github.io/master/media/timeline.png" margin:auto"/></p>
+<p align = "center"><img src="https://raw.githubusercontent.com/rishabht1/rishabht1.github.io/master/media/timeline.png" style="margin:auto"/></p>
 </figure>
 
 For the initial few days Bhilwara was standing at the precipice of a massive spread of the virus. A private hospital became the hotbed for the spread. Doctors and the nursing staff of this hospital contracted the virus and without the knowledge/acknowledgement of the virus being inside them the hospital continued its work for over 10 days. Around 7000 people who visited this hospital in the previous weeks and then the many others who they might have come in contact with were all under very plausible risk of catching the virus.
@@ -20,7 +20,7 @@ Once the situation came to light, what followed were panic, immense luck, and so
 Panic because it clearly seemed the city had lost time. Luck because in retrospect, the time lost didn’t come anything close to the damage it could have caused.
 
 <figure>
-<p align = "center"><img src="https://raw.githubusercontent.com/rishabht1/rishabht1.github.io/master/media/bhilwara.png" margin:auto"/></p>
+<p align = "center"><img src="https://raw.githubusercontent.com/rishabht1/rishabht1.github.io/master/media/bhilwara.png" style="margin:auto"/></p>
 </figure>
 
 Bhilwara had put some minimal preliminary precautions in place. On 17th March when a person who had returned from Spain was suspected of carrying Covid like symptoms (reported negative on testing), he was isolated in the central government hospital. Additionally, the hospital put restrictions on children and people above 60 from visiting patients, many meetings and seminars were postponed, and a control chamber was created under the district collectorate premises. On 17th itself, the Rajasthan government passed orders prohibiting gatherings of more than 50 people.
@@ -33,11 +33,11 @@ To implement the points mentioned above, the capacity of isolation and observati
 On the other side the effort was directed towards managing and sustain the lockdown. This also includes the surveys being done to make better use of the time that has been borrowed. For the rural areas 5400 “corona fighters” for around 1800 villages were put to action. They included 5250 ASHA workers and other volunteers. Police, home guards, and social workers together ensured food and supplies reached homes within the containment area. Total shutdown meant people got essential goods including dairy, medicines, at their doorstep at call. At least 4-5 control rooms of several departments became operational.
 
 <figure>
-<p align = "center"><img src="https://raw.githubusercontent.com/rishabht1/rishabht1.github.io/master/media/%positive.png" margin:auto"/></p>
+<p align = "center"><img src="https://raw.githubusercontent.com/rishabht1/rishabht1.github.io/master/media/%positive.png" style="margin:auto"/></p>
 </figure>
 
 <figure>
-<p align = "center"><img src="https://raw.githubusercontent.com/rishabht1/rishabht1.github.io/master/media/active.png" margin:auto"/></p>
+<p align = "center"><img src="https://raw.githubusercontent.com/rishabht1/rishabht1.github.io/master/media/active.png" style="margin:auto"/></p>
 </figure>
 
 Looking at the present number of positive cases (Figure – positive % of rajasthan), it wouldn’t be wrong to call the Bhilwara strategy of ruthless containment a success. Where the potential cases could have been in thousands, the present active cases (Figure – active cases) are in single digits. From being the worst hit district in Rajasthan (having the highest number of cases in Rajasthan from March 20th to April 2nd) to not reporting new cases for 11 straight days, the efforts have led to impressive results.
@@ -45,11 +45,11 @@ Looking at the present number of positive cases (Figure – positive % of rajast
 Bhilwara is still in the list of the red zone districts issued by Ministry of Health and Family Welfare. Though the number of cases compared to the total in Rajasthan has gone down below 2% (figure – % Bhilwara to Raj), the number of samples tested from the district comprise of more than 10% of the state (figure – Samples%). The district is presently under “mahacurfew” (intense curfew), and with new cases erupting in the past few days, it doesn’t seem that the guard will be put down soon.
 
 <figure>
-<p align = "center"><img src="https://raw.githubusercontent.com/rishabht1/rishabht1.github.io/master/media/ptvtosmp.png" margin:auto"/></p>
+<p align = "center"><img src="https://raw.githubusercontent.com/rishabht1/rishabht1.github.io/master/media/ptvtosmp.png" style="margin:auto"/></p>
 </figure>
 
 <figure>
-<p align = "center"><img src="https://raw.githubusercontent.com/rishabht1/rishabht1.github.io/master/media/%smp.png" margin:auto"/></p>
+<p align = "center"><img src="https://raw.githubusercontent.com/rishabht1/rishabht1.github.io/master/media/%smp.png" style="margin:auto"/></p>
 </figure>
 
 As is with the whole of the world, the economic implications of the corona virus pandemic are going to be huge for Bhilwara too. There will be various projections of the scale at which the losses come. As the city is famously touted as a “textile” city, it gives a chance to quantify something around the economic impact of the paralysis. Let’s look at some statistics around Bhilwara’s textile industry. The district comprises of around 450 big-small cloth manufacturing factories, spinning units, and process houses. Nearly 26 lakh meters of cloth is produced daily. There are 27 textile markets and around 2000 textile related shops. The yarn and cloth are exported to over 70 countries. With an average one-day turnover of rupees 41 crore, the loss in revenue so far just in the textile sector alone stands at around 1400 crore rupees (from March 20 to April 25). The most significant number is the roughly 1.25 lakh people that are employed in textiles.
