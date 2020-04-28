@@ -80,7 +80,8 @@ The Bhilwara story is far from over. [The lockdown is relatively easy to adminis
 
 ---
 
-Data: http://www.rajswasthya.nic.in/[9]
+Data: [http://www.rajswasthya.nic.in/][9]
+
 Newspapers referred: Daily Lokjeewan and Rajasthan Patrika
 
 [1]: https://www.bbc.com/news/world-asia-india-51997488
