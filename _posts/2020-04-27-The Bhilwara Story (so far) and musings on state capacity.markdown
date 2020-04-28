@@ -81,9 +81,9 @@ The Bhilwara story is far from over. [The lockdown is relatively easy to adminis
 ---
 
 
-Data: [http://www.rajswasthya.nic.in/][9]
+<span style="font-size:1em;">Data: [http://www.rajswasthya.nic.in/][9]
 
-Newspapers referred: Daily Lokjeewan and Rajasthan Patrika
+Newspapers referred: Daily Lokjeewan and Rajasthan Patrika</span>
 
 [1]: https://www.bbc.com/news/world-asia-india-51997488
 [2]: https://indianexpress.com/article/explained/understanding-community-spread-of-coronavirus-what-is-it-what-does-it-entail-6326615/
