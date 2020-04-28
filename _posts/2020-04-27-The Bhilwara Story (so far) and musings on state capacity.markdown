@@ -33,7 +33,7 @@ To implement the points mentioned above, the capacity of isolation and observati
 On the other side the effort was directed towards managing and sustain the lockdown. This also includes the surveys being done to make better use of the time that has been borrowed. For the rural areas 5400 “corona fighters” for around 1800 villages were put to action. They included 5250 ASHA workers and other volunteers. Police, home guards, and social workers together ensured food and supplies reached homes within the containment area. Total shutdown meant people got essential goods including dairy, medicines, at their doorstep at call. At least 4-5 control rooms of several departments became operational.
 
 <figure>
-<p align = "center"><img src="https://raw.githubusercontent.com/rishabht1/rishabht1.github.io/master/media/%positive.png" style="margin:auto"/></p>
+<p align = "center"><img src="https://raw.githubusercontent.com/rishabht1/rishabht1.github.io/master/media/positive.png" style="margin:auto"/></p>
 </figure>
 
 <figure>
@@ -49,7 +49,7 @@ Bhilwara is still in the list of the red zone districts issued by Ministry of He
 </figure>
 
 <figure>
-<p align = "center"><img src="https://raw.githubusercontent.com/rishabht1/rishabht1.github.io/master/media/%smp.png" style="margin:auto"/></p>
+<p align = "center"><img src="https://raw.githubusercontent.com/rishabht1/rishabht1.github.io/master/media/smp.png" style="margin:auto"/></p>
 </figure>
 
 As is with the whole of the world, the economic implications of the corona virus pandemic are going to be huge for Bhilwara too. There will be various projections of the scale at which the losses come. As the city is famously touted as a “textile” city, it gives a chance to quantify something around the economic impact of the paralysis. Let’s look at some statistics around Bhilwara’s textile industry. The district comprises of around 450 big-small cloth manufacturing factories, spinning units, and process houses. Nearly 26 lakh meters of cloth is produced daily. There are 27 textile markets and around 2000 textile related shops. The yarn and cloth are exported to over 70 countries. With an average one-day turnover of rupees 41 crore, the loss in revenue so far just in the textile sector alone stands at around 1400 crore rupees (from March 20 to April 25). The most significant number is the roughly 1.25 lakh people that are employed in textiles.
