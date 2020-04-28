@@ -5,7 +5,7 @@ date:   2020-04-27 20:00:25 +0530
 categories: ["write ups"]
 ---
 
-I have grown up in Bhilwara and lived there for the first 18 years and intermittently after that. I have been curious about the way in the state functions at the district and local levels. Sitting here in Delhi, I have been sifting through newspapers based out of the city. It has been interesting to observe how the corona virus pandemic is being viewed and how the developments around it are taking shape.
+I have grown up in Bhilwara and lived there for the first 18 years and intermittently after that. The ways in which the state functions at the district and local levels has always intrigued me. Sitting here in Delhi, I have been sifting through newspapers based out of the city. It has been interesting to observe how the corona virus pandemic is being viewed and how the developments around it are taking shape.
 
 <figure>
 <p align = "center"><img src="https://raw.githubusercontent.com/rishabht1/rishabht1.github.io/master/media/timeline.png" style="margin:auto"/></p>
