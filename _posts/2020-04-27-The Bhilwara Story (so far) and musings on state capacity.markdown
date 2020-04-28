@@ -74,9 +74,14 @@ I strongly believe that it is not what the state does now that is going to make 
 
 The scale of state and administrative operations at the district level has always baffled me. In normal times, the state though widespread and ubiquitous mostly shares a bad-faith relationship/arrangement with people and society. Situations like the present have turned out to be game changers in the way people perceive the state (especially at the district administration level). For districts which have shown even some glimmers of a sincerity of purpose (like Bhilwara has), the perception of people towards the state has transformed from that of intentional dishonesty to a responsible co-party to the social contract acting as a troubleshooter/saviour/guiding light.
 
-Administrators are at the centre of the containment processes. For local authorities are at the coalface; delivering the state to the citizens. The most challenging task remains that of leadership and keeping police, service providers and other personnel motivated for intensive work requirements which are so long-stretched and highly risk-bearing. The fact that 5250 ASHA workers who are engaged in the house-to-house surveys (which form the bedrock of what we know as the Bhilwara model) have pending remunerations for 3 months does not bode well for where we stand and tells us why the government and societal empathy require so much more than 5 PM claps and 9 PM candle lightings. As T. Sundararaman, leading public health expert, [points out][7] – “...(the) Public Sector should have redundant unused capacity. There should be some slack in it. Whenever there is an emergency or disaster, the Public Sector should be able to expand and take on the extra load.”
+Administrators are at the centre of the containment processes. For local authorities are at the coalface; delivering the state to the citizens. The most challenging task remains that of leadership and keeping police, service providers and other personnel motivated for intensive work requirements which are so long-stretched and highly risk-bearing. The fact that 5250 ASHA workers who are engaged in the house-to-house surveys (which form the bedrock of what we know as the Bhilwara model) have pending remunerations for 3 months does not bode well for where we stand and tells us why the government and societal empathy require so much more than 5 PM claps and 9 PM candle lightings. As T. Sundararaman, leading public health expert, [points out][7] – *“...(the) Public Sector should have redundant unused capacity. There should be some slack in it. Whenever there is an emergency or disaster, the Public Sector should be able to expand and take on the extra load.”*
 
 The Bhilwara story is far from over. [The lockdown is relatively easy to administer.][8] It works through a command and control operation. The partial (and then full) opening up would require way more innovative planning and flexible execution. The district administration will be even more pivotal in doing so. It will be delightful if Bhilwara keeps the “model” status intact in managing what comes next. 
+
+---
+
+Data: http://www.rajswasthya.nic.in/[9]
+Newspapers referred: Daily Lokjeewan and Rajasthan Patrika
 
 [1]: https://www.bbc.com/news/world-asia-india-51997488
 [2]: https://indianexpress.com/article/explained/understanding-community-spread-of-coronavirus-what-is-it-what-does-it-entail-6326615/
@@ -86,3 +91,4 @@ The Bhilwara story is far from over. [The lockdown is relatively easy to adminis
 [6]: https://www.livemint.com/opinion/online-views/opinion-disparity-in-the-era-of-coronavirus-the-disposables-divide-11585677575725.html
 [7]: https://www.huffingtonpost.in/entry/indias-coronavirus-cases_in_5e6c9bcac5b6747ef11d90e0
 [8]: https://indianexpress.com/article/opinion/columns/india-lockdown-extension-coronavirus-pratap-bhanu-mehta-6353779/
+[9]: http://www.rajswasthya.nic.in/
